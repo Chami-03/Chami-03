@@ -1,147 +1,94 @@
-<h1 align="center">Chamikara Wijerathne</h1>
-
-<p align="center">
-IT Undergraduate exploring data, systems, and project solutions
-</p>
+<h1 align="center">Hi 👋, I'm Chamikara Wijerathne</h1>
+<h3 align="center">Information Systems Engineering Undergraduate at SLIIT | Exploring Data, Systems, and Project Solutions</h3>
 
 ---
 
-## About
+## 🌱 About Me
 
-**BSc (Hons) in Information Technology  
-Specialising in Information Systems Engineering**
+I am an undergraduate student in **Information Technology specialising in Information Systems Engineering at SLIIT**.
 
-2nd Year Undergraduate (since 2024)
+My focus is on understanding business problems and translating them into **clear system requirements, structured processes, and data driven insights**.
 
-I interpret business needs into actionable requirements and data driven insights. My work focuses on bridging business understanding with technical systems through structured analysis and system thinking.
+I enjoy working at the intersection of **technology, business analysis, and project coordination**, where systems are designed to solve real operational challenges.
 
-**Core Skills**
-
-• Requirements Gathering  
-• Data Analysis  
-• System Design  
-• Cross Functional Collaboration  
+My current learning journey involves **data analysis, system design, and project management practices**, supported by hands on projects and practical implementations.
 
 ---
 
-## Career Focus
-
-| Path | Key Areas |
-|-----|-----------|
-| Aspiring Project Manager | Planning · Coordination · Execution |
-| Aspiring Business Analyst | Requirements · SRS · User Flows |
-| Aspiring Data Analyst | SQL · Power BI · Excel |
-
----
-
-## Skills and Technologies
-
-### Programming and Systems
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Data and Analytics
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="160"/>
-</p>
-
----
-
-## Selected Projects
-
-### Telco Customer Churn Analysis
-
-This project analyzes telecom customer churn using Power BI to understand why customers leave. The dataset was cleaned and modeled to produce meaningful metrics and insights. The results are presented through an interactive dashboard to support better customer retention decisions.
-
-Tools  
-Power BI · Excel · DAX
-
-Project Link  
-https://github.com/YOUR_USERNAME/churn-analysis
-
----
-
-### FitVital Hub – Role Based Health Platform
-
-A team built health platform that includes role based dashboards for Admin, Doctor, Dietician, and Patient users. The platform supports secure document uploads, payment integration, and notification workflows. The architecture focuses on clean service patterns and normalized database design.
-
-Technologies  
-Java · Spring Boot · MySQL · JPA
-
-Project Link  
-https://github.com/YOUR_USERNAME/fitvital-hub
-
----
-
-### Tutor Management System – OOP Module
-
-A full stack tutor management application created to demonstrate Java OOP principles and layered architecture. The system supports student registration, session scheduling, and feedback management.
-
-Technologies  
-Spring Boot · Java · HTML · CSS · JavaScript
-
-Project Link  
-https://github.com/YOUR_USERNAME/tutor-management-system
-
----
-
-### Mobile Banking Redesign – UX and BA Study
-
-A business analysis case study that explores improvements to a mobile banking interface. The work includes requirement elicitation, user journeys, flow diagrams, and measurable performance indicators.
-
-Tools  
-Figma · SRS · User Flows
-
-Project Link  
-https://github.com/YOUR_USERNAME/mobile-banking-redesign
-
----
-
-## Education
-
-**BSc (Hons) in Information Technology**  
-Specialising in Information Systems Engineering
-
-Sri Lanka Institute of Information Technology (SLIIT)
-
----
-
-## Certifications
-
-Google Business Intelligence Professional Certificate  
-Google Data Analytics Professional Certificate  
-IBM Business Analyst Professional Certificate  
-Google Project Management Professional Certificate
-
----
-
-## Connect With Me
+## 🌐 Connect With Me
 
 GitHub  
-https://github.com/Chami-03
+https://github.com/Chami-03  
 
 LinkedIn  
-https://linkedin.com/in/chamikarawijerathne
+https://linkedin.com/in/chamikarawijerathne  
+
+Portfolio  
+https://chamiw.online  
 
 Email  
 chamiw.online@gmail.com
 
-Portfolio
-https://chamiw.online/
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,figma" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Selected Projects
+
+**Telco Customer Churn Analysis**
+
+A data analytics project that investigates telecom customer churn patterns using Power BI. The dataset was cleaned, modeled, and visualized to produce insights that support customer retention decisions.
+
+Power BI · Excel · DAX
+
+---
+
+**FitVital Hub – Role Based Health Platform**
+
+A team developed health management platform featuring role based dashboards for Admin, Doctor, Dietician, and Patient users. The system includes secure document handling, payment integration, and structured database design.
+
+Java · Spring Boot · MySQL · JPA
+
+---
+
+**Tutor Management System**
+
+A full stack system developed for an OOP module. The platform supports tutor management, student registration, session scheduling, and feedback workflows.
+
+Java · Spring Boot · HTML · CSS · JavaScript
+
+---
+
+**Mobile Banking Redesign – BA Case Study**
+
+A business analysis focused redesign study including requirement elicitation, user journey mapping, and system improvement proposals supported by SRS documentation.
+
+Figma · User Flows · SRS
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Chami-03&show_icons=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chami-03&layout=compact"/>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile
